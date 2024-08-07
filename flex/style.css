@@ -1,0 +1,23 @@
+.container{
+    display: flex; /*definimos nuestro elemento flexbox*/
+    flex-direction: row; /*alineamos para que sean filas*/
+    flex-wrap: wrap; /*permitimos que se ajusten al tamaño del contenedor*/
+    width: 250px; /*ancho del contenedor*/
+    height: 500px; /*alto del contenedor*/
+    border: 10px solid black; /*borde del contenedor*/
+    justify-content: center; /*acomodar contenido y que no se salga*/
+    align-items: center; /*alinearlo al centro de la caja como tal*/
+    align-content: space-between; /*espacio entre los elementos*/
+}
+
+#uno{
+
+}
+
+#dos{
+
+}
+
+#tres{
+    
+}
