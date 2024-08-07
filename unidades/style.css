@@ -1,0 +1,33 @@
+html{
+    font-size: 20px;
+}
+
+.container1{
+    width: 600px;
+    height: 400px;
+    background: salmon;
+    border: 1px solid black;
+    h1{
+        font-size: 4rem;
+    }
+}
+
+h2{
+    background: green;
+}
+
+p{
+    color: red;
+}
+
+.primero{
+    padding: 20px;
+}
+
+.segundo{
+    padding: 20px;
+}
+
+.tercero{
+    padding: 20px;
+}
