@@ -1,0 +1,15 @@
+div{
+    background: blueviolet;
+}
+h1{
+    color: antiquewhite;
+}
+p{
+    color: black;
+}
+
+@media(min-width: 300px){
+    div{
+        background-color: salmon;
+    }
+}
